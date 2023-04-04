@@ -1,5 +1,57 @@
-<p align="middle" >
-  <img width="200px;" src="https://user-images.githubusercontent.com/50367798/106415730-2645a280-6493-11eb-876c-ef7172652261.png"/>
+# 프로젝트 이름
+
+<p align="center">
+  <br>
+  <img src="./images/car-racing.jpeg">
+  <br>
 </p>
-<h2 align="middle">level1 - 자동차 경주 게임</h2>
-<p align="middle">자바스크립트로 구현 하는 자동차 경주 게임</p>
+
+목차
+
+## 프로젝트 소개
+
+<p align="justify">
+프로젝트 개요/동기
+</p>
+
+<p align="center">
+GIF Images
+</p>
+
+<br>
+
+## 기술 스택
+
+| JavaScript | 
+| :--------: | 
+|   ![js]    |  
+
+<br>
+
+## 구현 기능
+
+### 기능 1
+
+### 기능 2
+
+### 기능 3
+
+### 기능 4
+
+<br>
+
+## 배운 점 & 아쉬운 점
+
+<p align="justify">
+
+</p>
+
+<br>
+
+## 라이센스
+
+* [우아한테크코스](@woowacourse)
+
+<!-- Stack Icon Refernces -->
+
+[js]: /images/javascript.svg
