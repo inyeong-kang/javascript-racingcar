@@ -1,5 +1,5 @@
-const Attempts = require('../domain/model/Attempts');
-const Car = require('../domain/model/Car');
+const Attempts = require('../model/Attempts');
+const Car = require('../model/Car');
 const { isMove, getRandomNumber } = require('../utils');
 const inputView = require('../view/inputView');
 const outputView = require('../view/outputView');
