@@ -6,11 +6,11 @@ describe('utils 테스트', () => {
     [3, false],
     [1.7, false],
     [4.1, true],
-  ])('isMove 함수 테스트: %s일 때 %s 반환', (number, expected) => {
+  ])('isMove 함수 테스트: %s일 때 %s 반환한다.', (number, expected) => {
     expect(isMove(number)).toBe(expected);
   });
 
-  test('자동차 전진 여부와 관련된 랜덤 값을 반환하는 기능(getRandomNumber) 테스트', () => {
+  test('자동차 전진 여부와 관련된 랜덤 값을 반환한다.', () => {
     Array.from({ length: 10 }).forEach(() => {
       expect(getRandomNumber()).toBeGreaterThanOrEqual(0);
       expect(getRandomNumber()).toBeLessThanOrEqual(9);
